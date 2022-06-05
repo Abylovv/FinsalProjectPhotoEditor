@@ -4,6 +4,8 @@ A small and easy-to-use image editor app using Tkinter and PIL libraries
 
 --- Check out my GUI project:  
 There is screens of how works project: [[Screens of project](https://github.com/Abylovv/FinsalProjectPhotoEditor/blob/main/Screen%20of%20Project.png)]
+
+
 There you can change photo 180 degree:
 1) Auto contrast
 2) Adding border
